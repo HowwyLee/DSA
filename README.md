@@ -1,5 +1,5 @@
 # Data Structures and Algorithms Learning Material
-Welcome to the Data Structures and Algorithms Learning Material repository! This repository is designed to provide comprehensive resources for learning and basic data structures and algorithms concepts.
+Welcome to the Data Structures and Algorithms Learning Material repository! This repository was originally created for my personal review, but I also hope that it can serve as a comprehensive resource for those in need to directly access complete information on data structures and algorithms.
 
 # Introduction
 This section provides an overview of the purpose and content of the learning material. It explains the importance of understanding data structures and algorithms in computer science and software development.
